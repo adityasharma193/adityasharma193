@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTUwbWpmYWpjdG9kam9wNWR0czhxMGZtand2cGtlMmFieXlqNnZ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oXnN2TNSgfJQI/giphy.gif" width="200"  />
   <h1> Hi there, I'm Aditya Sharma! 👋 </h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Passionate+Software+Developer;Competitive+Programmer;Full+Stack+Developer;Learning+Everyday!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3600&pause=500&color=338a4e&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Passionate+Software+Developer;Competitive+Programmer;Full+Stack+Developer;Learning+Everyday!)](https://git.io/typing-svg)
 
 ---
 </div>
