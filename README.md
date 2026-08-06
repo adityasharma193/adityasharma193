@@ -35,7 +35,7 @@
 ---
 
 ## ⚡ Fun Facts  
-- 🎯 Solved **500+ (CP & DSA) problems** on platforms like Codeforces, Codechef, AtCoder & LeetCode  
+- 🎯 Solved **1000+ (CP & DSA) problems** on platforms like Codeforces, Codechef, AtCoder & LeetCode  
 - 🌍 Built **projects impacting users globally**  
 ---
 
